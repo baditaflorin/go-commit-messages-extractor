@@ -1,0 +1,1 @@
+# go-commit-messages-extractor
